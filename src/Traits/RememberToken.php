@@ -37,7 +37,7 @@ trait RememberToken
      */
     public function getRememberTokenName()
     {
-        return 'remember_token';
+        return 'rememberToken';
     }
 
     /**
